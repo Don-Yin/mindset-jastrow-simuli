@@ -1,0 +1,3602 @@
+[
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 5.0,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 7.105263157894736,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 9.210526315789473,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 11.31578947368421,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 13.421052631578947,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 15.526315789473683,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 17.63157894736842,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 19.736842105263158,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 21.842105263157894,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 23.94736842105263,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 26.052631578947366,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 28.157894736842103,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 30.263157894736842,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 32.368421052631575,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 34.473684210526315,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 36.578947368421055,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 38.68421052631579,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 40.78947368421053,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 42.89473684210526,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1,
+      "angle": 45.0,
+      "radius_inner": 3440.0
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 5.0,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 7.105263157894736,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 9.210526315789473,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 11.31578947368421,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 13.421052631578947,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 15.526315789473683,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 17.63157894736842,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 19.736842105263158,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 21.842105263157894,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 23.94736842105263,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 26.052631578947366,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 28.157894736842103,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 30.263157894736842,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 32.368421052631575,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 34.473684210526315,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 36.578947368421055,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 38.68421052631579,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 40.78947368421053,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 42.89473684210526,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.14210526315789473,
+      "angle": 45.0,
+      "radius_inner": 3372.6315789473683
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 5.0,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 7.105263157894736,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 9.210526315789473,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 11.31578947368421,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 13.421052631578947,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 15.526315789473683,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 17.63157894736842,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 19.736842105263158,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 21.842105263157894,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 23.94736842105263,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 26.052631578947366,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 28.157894736842103,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 30.263157894736842,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 32.368421052631575,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 34.473684210526315,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 36.578947368421055,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 38.68421052631579,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 40.78947368421053,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 42.89473684210526,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.1842105263157895,
+      "angle": 45.0,
+      "radius_inner": 3305.2631578947367
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 5.0,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 7.105263157894736,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 9.210526315789473,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 11.31578947368421,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 13.421052631578947,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 15.526315789473683,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 17.63157894736842,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 19.736842105263158,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 21.842105263157894,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 23.94736842105263,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 26.052631578947366,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 28.157894736842103,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 30.263157894736842,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 32.368421052631575,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 34.473684210526315,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 36.578947368421055,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 38.68421052631579,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 40.78947368421053,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 42.89473684210526,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.22631578947368422,
+      "angle": 45.0,
+      "radius_inner": 3237.8947368421054
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 5.0,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 7.105263157894736,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 9.210526315789473,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 11.31578947368421,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 13.421052631578947,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 15.526315789473683,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 17.63157894736842,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 19.736842105263158,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 21.842105263157894,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 23.94736842105263,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 26.052631578947366,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 28.157894736842103,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 30.263157894736842,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 32.368421052631575,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 34.473684210526315,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 36.578947368421055,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 38.68421052631579,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 40.78947368421053,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 42.89473684210526,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.26842105263157895,
+      "angle": 45.0,
+      "radius_inner": 3170.5263157894738
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 5.0,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 7.105263157894736,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 9.210526315789473,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 11.31578947368421,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 13.421052631578947,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 15.526315789473683,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 17.63157894736842,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 19.736842105263158,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 21.842105263157894,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 23.94736842105263,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 26.052631578947366,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 28.157894736842103,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 30.263157894736842,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 32.368421052631575,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 34.473684210526315,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 36.578947368421055,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 38.68421052631579,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 40.78947368421053,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 42.89473684210526,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.31052631578947365,
+      "angle": 45.0,
+      "radius_inner": 3103.157894736842
+    },
+    "optimal_angle": 14
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 5.0,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 7.105263157894736,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 9.210526315789473,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 11.31578947368421,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 13.421052631578947,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 15.526315789473683,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 17.63157894736842,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 19.736842105263158,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 21.842105263157894,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 23.94736842105263,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 26.052631578947366,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 28.157894736842103,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 30.263157894736842,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 32.368421052631575,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 34.473684210526315,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 36.578947368421055,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 38.68421052631579,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 40.78947368421053,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 14
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 42.89473684210526,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 15
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.3526315789473684,
+      "angle": 45.0,
+      "radius_inner": 3035.7894736842104
+    },
+    "optimal_angle": 16
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 5.0,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 7.105263157894736,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 9.210526315789473,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 11.31578947368421,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 13.421052631578947,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 15.526315789473683,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 17.63157894736842,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 19.736842105263158,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 21.842105263157894,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 23.94736842105263,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 26.052631578947366,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 28.157894736842103,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 30.263157894736842,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 32.368421052631575,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 34.473684210526315,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 36.578947368421055,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 38.68421052631579,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 14
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 40.78947368421053,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 15
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 42.89473684210526,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 16
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.39473684210526316,
+      "angle": 45.0,
+      "radius_inner": 2968.421052631579
+    },
+    "optimal_angle": 17
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 5.0,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 7.105263157894736,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 9.210526315789473,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 11.31578947368421,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 13.421052631578947,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 15.526315789473683,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 17.63157894736842,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 19.736842105263158,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 21.842105263157894,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 23.94736842105263,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 26.052631578947366,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 28.157894736842103,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 30.263157894736842,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 32.368421052631575,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 34.473684210526315,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 14
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 36.578947368421055,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 15
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 38.68421052631579,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 16
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 40.78947368421053,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 17
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 42.89473684210526,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 18
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4368421052631579,
+      "angle": 45.0,
+      "radius_inner": 2901.0526315789475
+    },
+    "optimal_angle": 19
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 5.0,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 7.105263157894736,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 9.210526315789473,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 11.31578947368421,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 13.421052631578947,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 15.526315789473683,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 17.63157894736842,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 19.736842105263158,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 21.842105263157894,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 23.94736842105263,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 26.052631578947366,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 28.157894736842103,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 30.263157894736842,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 32.368421052631575,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 14
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 34.473684210526315,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 15
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 36.578947368421055,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 16
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 38.68421052631579,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 17
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 40.78947368421053,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 18
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 42.89473684210526,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 19
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.4789473684210527,
+      "angle": 45.0,
+      "radius_inner": 2833.684210526316
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 5.0,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 7.105263157894736,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 9.210526315789473,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 11.31578947368421,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 13.421052631578947,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 15.526315789473683,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 17.63157894736842,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 19.736842105263158,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 21.842105263157894,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 23.94736842105263,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 26.052631578947366,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 28.157894736842103,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 30.263157894736842,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 32.368421052631575,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 15
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 34.473684210526315,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 16
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 36.578947368421055,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 17
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 38.68421052631579,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 18
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 40.78947368421053,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 19
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 42.89473684210526,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5210526315789473,
+      "angle": 45.0,
+      "radius_inner": 2766.315789473684
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 5.0,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 7.105263157894736,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 9.210526315789473,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 11.31578947368421,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 13.421052631578947,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 15.526315789473683,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 17.63157894736842,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 19.736842105263158,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 21.842105263157894,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 23.94736842105263,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 26.052631578947366,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 28.157894736842103,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 30.263157894736842,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 14
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 32.368421052631575,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 16
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 34.473684210526315,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 17
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 36.578947368421055,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 18
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 38.68421052631579,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 19
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 40.78947368421053,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 42.89473684210526,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.5631578947368421,
+      "angle": 45.0,
+      "radius_inner": 2698.9473684210525
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 5.0,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 7.105263157894736,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 9.210526315789473,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 11.31578947368421,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 13.421052631578947,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 15.526315789473683,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 17.63157894736842,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 19.736842105263158,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 21.842105263157894,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 23.94736842105263,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 26.052631578947366,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 28.157894736842103,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 14
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 30.263157894736842,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 15
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 32.368421052631575,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 16
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 34.473684210526315,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 18
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 36.578947368421055,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 19
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 38.68421052631579,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 40.78947368421053,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 42.89473684210526,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6052631578947368,
+      "angle": 45.0,
+      "radius_inner": 2631.578947368421
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 5.0,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 7.105263157894736,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 9.210526315789473,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 11.31578947368421,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 13.421052631578947,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 15.526315789473683,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 17.63157894736842,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 19.736842105263158,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 21.842105263157894,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 23.94736842105263,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 26.052631578947366,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 28.157894736842103,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 14
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 30.263157894736842,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 16
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 32.368421052631575,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 17
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 34.473684210526315,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 19
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 36.578947368421055,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 38.68421052631579,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 40.78947368421053,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 42.89473684210526,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6473684210526316,
+      "angle": 45.0,
+      "radius_inner": 2564.210526315789
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 5.0,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 7.105263157894736,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 9.210526315789473,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 11.31578947368421,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 13.421052631578947,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 15.526315789473683,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 17.63157894736842,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 19.736842105263158,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 21.842105263157894,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 23.94736842105263,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 26.052631578947366,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 28.157894736842103,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 15
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 30.263157894736842,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 16
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 32.368421052631575,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 18
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 34.473684210526315,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 19
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 36.578947368421055,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 38.68421052631579,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 40.78947368421053,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 42.89473684210526,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.6894736842105262,
+      "angle": 45.0,
+      "radius_inner": 2496.842105263158
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 5.0,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 7.105263157894736,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 9.210526315789473,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 11.31578947368421,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 13.421052631578947,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 15.526315789473683,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 17.63157894736842,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 19.736842105263158,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 21.842105263157894,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 23.94736842105263,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 26.052631578947366,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 28.157894736842103,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 15
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 30.263157894736842,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 17
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 32.368421052631575,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 18
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 34.473684210526315,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 36.578947368421055,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 38.68421052631579,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 40.78947368421053,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 42.89473684210526,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.731578947368421,
+      "angle": 45.0,
+      "radius_inner": 2429.4736842105267
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 5.0,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 7.105263157894736,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 9.210526315789473,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 11.31578947368421,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 13.421052631578947,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 15.526315789473683,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 17.63157894736842,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 6
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 19.736842105263158,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 21.842105263157894,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 10
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 23.94736842105263,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 12
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 26.052631578947366,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 28.157894736842103,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 15
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 30.263157894736842,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 17
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 32.368421052631575,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 18
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 34.473684210526315,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 36.578947368421055,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 38.68421052631579,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 40.78947368421053,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 42.89473684210526,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.7736842105263158,
+      "angle": 45.0,
+      "radius_inner": 2362.105263157895
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 5.0,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 7.105263157894736,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 9.210526315789473,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 11.31578947368421,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 13.421052631578947,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 15.526315789473683,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 17.63157894736842,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 19.736842105263158,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 21.842105263157894,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 23.94736842105263,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 26.052631578947366,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 28.157894736842103,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 14
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 30.263157894736842,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 16
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 32.368421052631575,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 18
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 34.473684210526315,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 36.578947368421055,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 38.68421052631579,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 40.78947368421053,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 42.89473684210526,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8157894736842105,
+      "angle": 45.0,
+      "radius_inner": 2294.7368421052633
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 5.0,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 7.105263157894736,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 9.210526315789473,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 11.31578947368421,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 13.421052631578947,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 15.526315789473683,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 3
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 17.63157894736842,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 2
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 19.736842105263158,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 5
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 21.842105263157894,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 23.94736842105263,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 9
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 26.052631578947366,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 28.157894736842103,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 30.263157894736842,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 14
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 32.368421052631575,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 17
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 34.473684210526315,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 19
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 36.578947368421055,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 38.68421052631579,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 40.78947368421053,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 42.89473684210526,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.8578947368421053,
+      "angle": 45.0,
+      "radius_inner": 2227.3684210526317
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 5.0,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 7.105263157894736,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 9.210526315789473,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 11.31578947368421,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 13.421052631578947,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 15.526315789473683,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 17.63157894736842,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 19.736842105263158,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 21.842105263157894,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 1
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 23.94736842105263,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 4
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 26.052631578947366,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 7
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 28.157894736842103,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 8
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 30.263157894736842,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 11
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 32.368421052631575,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 13
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 34.473684210526315,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 15
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 36.578947368421055,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 18
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 38.68421052631579,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 40.78947368421053,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 42.89473684210526,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 20
+  },
+  {
+    "configuration": {
+      "radius_outer": 3600.0,
+      "thickness": 0.9,
+      "angle": 45.0,
+      "radius_inner": 2160.0
+    },
+    "optimal_angle": 20
+  }
+]
