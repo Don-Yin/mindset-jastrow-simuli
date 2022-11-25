@@ -212,9 +212,9 @@ def map_between(value, range):
 # get 100 values with equal interval between 0.1 and 0.2
 variance = 0.5  # float between 0 and 1, larger the more variance
 radius_outer = [1]
-thicknesses = np.linspace(0.1, 0.2, 10)
-angles = np.linspace(5, 45, 10)
-image_per_config = 10
+thicknesses = np.linspace(0.1, 0.2, 100)
+angles = np.linspace(5, 45, 100)
+image_per_config = 100
 threshold_jastrow_coefficient = 25  # shapes under this threshold will be moved to another folder
 train_test_ratio = 0.8  # float between 0 and 1, larger the more training data
 variation_name = "standard"
