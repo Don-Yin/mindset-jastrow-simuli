@@ -13,7 +13,6 @@ from random import randrange
 import json
 from itertools import product
 import shutil
-from matplotlib import pyplot as plt
 from sklearn import preprocessing
 
 # import global variables
@@ -176,17 +175,6 @@ def make_jastrow(shape_1: Image, shape_2: Image) -> Image:
     return background, paste_coordinates_shape_1, paste_coordinates_shape_2
 
 
-def compute_similarity(angles: tuple):
-    """
-    Compute the similarity between two angles in 360 degree space
-    Map the similarity to a range of 0 - 1
-    params:
-        angles: the angles to compute the similarity from
-    returns:
-        similarity: the similarity between the two angles
-    """
-    similarity = 1 - abs(1 - (abs(angles[0] - angles[1]) / 180))
-    return similarity if similarity != 0 else 0.01
 
 
 def map_between(value, range):
@@ -227,70 +215,6 @@ combs = [update_configs(i) for i in combs]
 # set up progress bar
 progress_bar = tqdm(total=len(combs) * image_per_config, colour="green")
 
-
-def get_max_min_shape_size():
-    """
-    Get the max and min shape size from the current configuration
-    as defined above in the settings.
-    params:
-        None
-    return:
-        max_shape_size, min_shape_size
-    """
-    config_max = update_configs({"radius_outer": max(radius_outer), "thickness": max(thicknesses), "angle": max(angles)})
-    config_min = update_configs({"radius_outer": min(radius_outer), "thickness": min(thicknesses), "angle": min(angles)})
-
-    shape_max = generate_init_shape(config_max)
-    shape_min = generate_init_shape(config_min)
-
-    shape_max = shape_max.crop(shape_max.getbbox())
-    shape_min = shape_min.crop(shape_min.getbbox())
-
-    # make them blue
-    shape_max = np.array(shape_max)
-    shape_max[shape_max[:, :, 3] == 255] = [0, 0, 255, 255]
-    shape_max = Image.fromarray(shape_max)
-
-    shape_min = np.array(shape_min)
-    shape_min[shape_min[:, :, 3] == 255] = [0, 0, 255, 255]
-    shape_min = Image.fromarray(shape_min)
-
-    sizes_max = 1
-    sizes_min = 1 - variance
-
-    shape_max_resized = shape_max.resize(tuple(round(i * sizes_max) for i in shape_max.size), Image.Resampling.LANCZOS)
-    shape_min_resized = shape_min.resize(tuple(round(i * sizes_min) for i in shape_min.size), Image.Resampling.LANCZOS)
-
-    shape_max_size = get_area_size(canvas=shape_max_resized, color="blue")
-    shape_min_size = get_area_size(canvas=shape_min_resized, color="blue")
-
-    return shape_max_size, shape_min_size
-
-
-def get_shape_size_from_generated_data() -> tuple:
-    """
-    Validate the generated data by checking the size of the shapes
-    return: max_shape_size, min_shape_size
-    """
-    files = os.listdir("data", variation_name, "images")
-    files = [i for i in files if i.endswith(".png")]
-    files = [i.split("-") for i in files]
-
-    shape_1_sizes = [int(i[1]) for i in files]
-    shape_2_sizes = [int(i[2]) for i in files]
-
-    all_sizes = shape_1_sizes + shape_2_sizes
-    return max(all_sizes), min(all_sizes)
-
-
-def filter_data():
-    """
-    Move the generated images that have lower jastrow coefficient
-    than the threshold to another folder
-    """
-    generated_files = [i for i in os.listdir(Path("data", variation_name, "images")) if i.endswith(".png")]
-    under_threshold = [i for i in generated_files if float(i.split("-")[0]) < threshold_jastrow_coefficient]
-    [shutil.move(Path("data", variation_name, "images", i), Path("data", variation_name, "under_threshold", i)) for i in under_threshold]
 
 
 def main(config: dict) -> None:
