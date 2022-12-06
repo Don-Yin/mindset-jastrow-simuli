@@ -290,7 +290,10 @@ def filter_data():
     """
     generated_files = [i for i in os.listdir(Path("data", variation_name, "images")) if i.endswith(".png")]
     under_threshold = [i for i in generated_files if float(i.split("-")[0]) < threshold_jastrow_coefficient]
-    [shutil.move(Path("data", variation_name, "images", i), Path("data", variation_name, "under_threshold", i)) for i in under_threshold]
+    [
+        shutil.move(Path("data", variation_name, "images", i), Path("data", variation_name, "under_threshold", i))
+        for i in under_threshold
+    ]
 
 
 def main(config: dict) -> None:
@@ -391,7 +394,7 @@ def set_label(folder: Path) -> None:
 
     sizes_shape_1 = [float(i[1]) for i in labels]
     sizes_shape_2 = [float(i[2]) for i in labels]
-    differences = [(max([i, j]) / min([i, j])) - 1 for i, j in zip(sizes_shape_1, sizes_shape_2)]
+    differences = [(i - j) / i for i, j in zip(sizes_shape_1, sizes_shape_2)]
 
     # normalize the differences
     scaler = preprocessing.StandardScaler()
@@ -400,14 +403,6 @@ def set_label(folder: Path) -> None:
 
     # make differences into a list of strings
     differences = [str(i) for i in differences]
-    # check each element in differences is unique for naming purposes
-    try:
-        assert len(differences) == len(set(differences))
-    except AssertionError:
-        # add "0"s to the differences that are not unique
-        for i in range(len(differences)):
-            if differences.count(differences[i]) > 1:
-                differences[i] = differences[i] + "0" * (differences.count(differences[i]) - 1)
 
     # rename the images
     for i, j in tqdm(zip(images, differences)):
